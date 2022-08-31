@@ -1,0 +1,12 @@
+A car going 20km/h takes 6s to stop, approximately how much time does it take to stop when going in 40km/s?|24s
+Name of the ancient supercontinent?|Pangea
+What percentage of Earth's atmosphere is CO2|0.03%
+Which 2 countries share the longest border?|US and Canada
+x_How many elements are there in the periodic table?|118
+x_What is the star pointing towards north?|Polaris
+x_How much time does it takes for the ISS to orbit Earth once?|90 minutes
+x_Name 2 computer viruses|Wannacry, You are an Idiot, the I love you virus, etc
+x_What are the frequency used by Wifi?|2.4 and 5 GHz
+x_Name 5 video file formats|mp4, webm, avi, mov, flv, mkv, etc
+x_How much of the Mars' atmosphere is C0₂?|95%
+x_How far from Earth is the nearest star excluding the Sun?|4.2 lightyears

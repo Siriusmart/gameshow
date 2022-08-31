@@ -1,0 +1,15 @@
+All planets starting from the sun|Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
+What is the biggest island on Earth?|Greenland
+x_Where is the dryest place on Earth?|Antartica
+x_What is meteorology the study of?|Weather
+x_What is the most common English alphabet?|E
+x_The moon is slowly moving away or into Earth?|Away
+x_What metal conducts electricity the best?|Silver
+x_What is the file type for installing apps on Android|APK
+x_Which uses more battery, Bluetooth or Wifi?|Bluetooth
+x_What will happen to the boiling point of water if air pressure increases?|Increses
+x_Does a sonic boom occur if an objects is travelling at excatly the speed of sound?|No
+x_Which planet is not named after a god?|Earth
+x_What is the coldest possible temperature?|0 K / -273.1 C
+x_What programming language is used to create Minecraft Bedrock?|C++
+x_True or false, concrete gets stronger over time|True
